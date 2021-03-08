@@ -26,7 +26,7 @@ Based on how the code flow was setup, steps were added to initalize the function
 
 Images of initial rendering.
 
-<img src="/images/images1.PNG" width = "250">
+<img src="/images/images1.PNG" width = "150">
 <br>
 <img src="/images/images2.PNG" width = "250">
 <br>
