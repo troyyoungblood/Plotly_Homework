@@ -23,9 +23,9 @@ The Javascript, app.js, high-level pseudocode was:
 
 Images of initial rendering and date filtered response.
 
-<img src="/images/images1.PNG" width = "100">
+<img src="/images/images1.PNG" width = "250">
 <br>
-<img src="/images/images2.PNG" width = "100">
+<img src="/images/images2.PNG" width = "250">
 <br>
 <img src="/images/images3.PNG" width = "550">
 
@@ -48,6 +48,6 @@ The Javascript, app.js, high-level pseudocode was:
 
 Images of initial rendering and sample filtered responses.
 
-<img src="/images/images4.PNG" width = "100">
+<img src="/images/images4.PNG" width = "300">
 <br>
 
