@@ -44,16 +44,25 @@ Images of initial rendering using data from id 940.
 <br>
 
 Hovertext messages
-
+<br>
 wfreq 9 - "HAPPY BELLY BUTTON" 
+<br>
 wfreq 8 - "A LITTLE EXTRA EFFORT" 
+<br>
 wfreq 7 - "ALMOST THERE"
-wfreq 6 - "GETTING THERE" 
+<br>
+wfreq 6 - "GETTING THERE"
+<br>
 wfreq 5 - "DOING BETTER"
+<br>
 wfreq 4 - "ALMOST POST CAVEMAN"
+<br>
 wfreq 3 - "REALLY- THAT'S ALL"
+<br>
 wfreq 2 - "PIZZA REMNANTS FOR ALL"
+<br>
 wfreq 1 - "DEFCOM 6"
+<br>
 wfreq 0 or null - "WARNING WARNING - BAD BELLY BUTTON"
-
+<br>
 
