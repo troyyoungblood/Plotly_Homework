@@ -23,9 +23,11 @@ The Javascript, app.js, high-level pseudocode was:
 
 Images of initial rendering and date filtered response.
 
-<img src="/UFO_level_1/static/images/initial_render.PNG" width = "550">
+<img src="/images/images1.PNG" width = "100">
 <br>
-<img src="/UFO_level_1/static/images/filtered_date.PNG" width = "550">
+<img src="/images/images2.PNG" width = "100">
+<br>
+<img src="/images/images3.PNG" width = "550">
 
 ### II.Level 2: Multiple Search Categories (Optional) - completed
 
@@ -46,10 +48,6 @@ The Javascript, app.js, high-level pseudocode was:
 
 Images of initial rendering and sample filtered responses.
 
-<img src="/UFO_level_2/static/images/intial_render_l2.PNG" width = "550">
+<img src="/images/images4.PNG" width = "100">
 <br>
-<img src="/UFO_level_2/static/images/date_filter_l2.PNG" width = "550">
-<br>
-<img src="/UFO_level_2/static/images/date_s_filter_l2.PNG" width = "550">
-<br>
-<img src="/UFO_level_2/static/images/date_s_c_filter_l2.PNG" width = "550">
+
