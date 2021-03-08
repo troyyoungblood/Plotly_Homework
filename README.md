@@ -43,3 +43,17 @@ Images of initial rendering using data from id 940.
 <img src="/images/images4.PNG" width = "300">
 <br>
 
+Hovertext messages
+
+wfreq 9 - "HAPPY BELLY BUTTON" 
+wfreq 8 - "A LITTLE EXTRA EFFORT" 
+wfreq 7 - "ALMOST THERE"
+wfreq 6 - "GETTING THERE" 
+wfreq 5 - "DOING BETTER"
+wfreq 4 - "ALMOST POST CAVEMAN"
+wfreq 3 - "REALLY- THAT'S ALL"
+wfreq 2 - "PIZZA REMNANTS FOR ALL"
+wfreq 1 - "DEFCOM 6"
+wfreq 0 or null - "WARNING WARNING - BAD BELLY BUTTON"
+
+
