@@ -1,10 +1,10 @@
 
-//function to unpack data from data file - hwData
-function unpack(rows, index) {
-  return rows.map(function(row) {
-    return row[index];
-  });
-}
+// //function to unpack data from data file - hwData
+// function unpack(rows, index) {
+//   return rows.map(function(row) {
+//     return row[index];
+//   });
+// }
 
 window.onload = popIdNo ()
 
