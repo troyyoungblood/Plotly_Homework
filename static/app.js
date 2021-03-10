@@ -205,7 +205,7 @@ function  buildVizdata(dataSet) {
               x0: 0.5,
               y0: 0.5,
               x1: 0.495,
-              y1: 0.78,
+              y1: 0.75,
               line: {
                 color: 'black',
                 width: 6
